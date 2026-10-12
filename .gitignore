@@ -1,0 +1,12 @@
+# Ignorovat konkrétní složku se zálohami
+/backups/
+/backup/
+/Macropad_V1-backups/
+/Manufacturing/
+
+# Ignorovat běžné záložní přípony souborů
+*.bak
+*.tmp
+*.old
+*~
+
