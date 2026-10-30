@@ -3,7 +3,7 @@
 /backup/
 /Macropad_V1-backups/
 /Manufacturing/
-
+/production/
 # Ignorovat běžné záložní přípony souborů
 *.bak
 *.tmp

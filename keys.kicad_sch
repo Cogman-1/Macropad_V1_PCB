@@ -1431,7 +1431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 237.49 66.04 0)
 			(effects
 				(font
@@ -1460,6 +1460,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 237.49 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7496852"
+			(at 237.49 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1510,7 +1519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 166.37 66.04 0)
 			(effects
 				(font
@@ -1546,6 +1555,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7496852"
+			(at 166.37 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e2de6d83-ca92-46f8-a320-c1743db0553e")
 		)
@@ -1566,7 +1584,7 @@
 		(at 102.87 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -1657,7 +1675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 227.33 66.04 0)
 			(effects
 				(font
@@ -1686,6 +1704,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 227.33 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7496852"
+			(at 227.33 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1736,7 +1763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 217.17 66.04 0)
 			(effects
 				(font
@@ -1765,6 +1792,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 217.17 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7496852"
+			(at 217.17 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1834,6 +1870,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 217.17 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17630"
 			(at 217.17 58.42 0)
 			(effects
 				(font
@@ -1912,6 +1957,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17630"
+			(at 156.21 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b0acc315-35d6-46a6-9a1d-dc42636fe382")
 		)
@@ -1932,7 +1986,7 @@
 		(at 102.87 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2000,7 +2054,7 @@
 		(at 102.87 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2068,7 +2122,7 @@
 		(at 102.87 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2136,7 +2190,7 @@
 		(at 102.87 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2254,6 +2308,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17630"
+			(at 196.85 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b629f23a-7db1-4630-a569-b0e78b5d8237")
 		)
@@ -2274,7 +2337,7 @@
 		(at 102.87 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2342,7 +2405,7 @@
 		(at 102.87 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2460,6 +2523,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17630"
+			(at 166.37 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5ee1a39-789d-47f0-aa4f-e2b73ae9dbdc")
 		)
@@ -2522,6 +2594,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 176.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17630"
 			(at 176.53 58.42 0)
 			(effects
 				(font
@@ -2600,6 +2681,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17630"
+			(at 207.01 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c7450e68-2489-407b-aebe-36180daee991")
 		)
@@ -2643,7 +2733,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 176.53 66.04 0)
 			(effects
 				(font
@@ -2672,6 +2762,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 176.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7496852"
+			(at 176.53 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2788,7 +2887,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 196.85 66.04 0)
 			(effects
 				(font
@@ -2817,6 +2916,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7496852"
+			(at 196.85 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2886,6 +2994,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 186.69 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17630"
 			(at 186.69 58.42 0)
 			(effects
 				(font
@@ -2964,6 +3081,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17630"
+			(at 227.33 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "70d7714c-0829-46fc-86fe-c46bd4d0d9a1")
 		)
@@ -3007,7 +3133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 207.01 66.04 0)
 			(effects
 				(font
@@ -3036,6 +3162,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 207.01 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7496852"
+			(at 207.01 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3179,6 +3314,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17630"
+			(at 237.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "abdc4a7b-f9ac-4d32-9bc9-7522049e4b54")
 		)
@@ -3222,7 +3366,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 156.21 66.04 0)
 			(effects
 				(font
@@ -3258,6 +3402,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7496852"
+			(at 156.21 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2ed73c8e-0abb-4775-83db-f416220f0bcd")
 		)
@@ -3278,7 +3431,7 @@
 		(at 102.87 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3369,7 +3522,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 			(at 186.69 66.04 0)
 			(effects
 				(font
@@ -3405,6 +3558,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7496852"
+			(at 186.69 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2053b2d8-40cf-4114-9079-cc684e46eb0d")
 		)
@@ -3425,7 +3587,7 @@
 		(at 102.87 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
